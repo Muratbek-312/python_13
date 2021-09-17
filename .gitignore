@@ -215,7 +215,19 @@ cython_debug/
 # Cython debug symbols
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
+<<<<<<< HEAD
 venv/
 venv
 .idea/
 .idea
+=======
+
+
+venv/
+venv
+.vscode/
+vscode/
+.idea/
+.idea
+main/__pycache__
+main/__pycache__/
