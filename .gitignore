@@ -1,4 +1,11 @@
 
+venv
+venv/
+venv
+.vscode/
+
+venv
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django
 
@@ -225,3 +232,5 @@ vscode/
 .idea
 main/__pycache__
 main/__pycache__/
+main/__pycache__/settings.cpython-38.pyc
+main/__pycache__/__init__.cpython-38.pyc
